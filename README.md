@@ -196,19 +196,7 @@ npm run build
 
 ---
 
-# 📸 Preview
 
-> Add screenshots or GIFs here.
-
-Example:
-
-```md
-![Dashboard](screenshots/dashboard.png)
-
-![Analytics](screenshots/analytics.png)
-
-![Questions](screenshots/questions.png)
-```
 
 ---
 
